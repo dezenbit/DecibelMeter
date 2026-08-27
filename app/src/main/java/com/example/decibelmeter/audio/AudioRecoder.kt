@@ -1,4 +1,4 @@
-package com.example.decibelmeter
+package com.example.decibelmeter.audio
 
 import android.Manifest
 import android.content.Context
